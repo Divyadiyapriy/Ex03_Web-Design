@@ -83,7 +83,8 @@
 </html>
 ~~~
 ## OUTPUT
-/home/sec/Pictures/web no3.png
+![web no3](https://github.com/Divyadiyapriy/Ex03_Web-Design/assets/127817268/fe6be8e6-7b7f-49cf-9c2e-d3687a831e15)
+
 
 ## RESULT
  Slot time table is created successfully.
